@@ -1,2 +1,6 @@
+---Servlets---
 http://docs.oracle.com/javaee/5/api/javax/servlet/http/HttpServlet.html
 http://habrahabr.ru/post/26316/
+
+---JavaConfig---
+http://habrahabr.ru/post/226663/
